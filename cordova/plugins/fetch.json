@@ -1,0 +1,11 @@
+{
+    "de.sitewaerts.cordova.documentviewer": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sitewaerts/cordova-plugin-document-viewer.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
